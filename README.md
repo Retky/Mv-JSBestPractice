@@ -1,4 +1,4 @@
-# WebpackBoilerplate
+# JsBestPractice
 Copy of Simple HTML list of To Do tasks made with Webpack for reviewing the JavaScript Best Practice.
 
 ## Built With
